@@ -1,0 +1,6 @@
+{
+  "name": "Staff Portal & Real-Time Communication",
+  "description": "Staff Portal featuring real-time messaging, group chat, group conference voice calling, and screen sharing.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
